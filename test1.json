@@ -1,19 +1,19 @@
 {
   
-    "answersPayload": {
-        "Fkx0pccx371md7": "Full Name",
-        "Fkx0pduqum084l": "This is the address",
-        "Fkx0pe26rrq1r3": "Miami",
-        "Fkx0pfcoctlpio": "Florida",
-        "Fkx0pm93z6zmgu": "33172",
-        "Pets in house": "",
-        "Fkx0pnnejxfole": "Property name",
-        "Fkx0pzn5uftkif": "Property address",
-        "Fkx0q10x1gwev4": "Kansas City",
-        "Fkx0q2coqeojl9": "Missouri",
-        "Fkx0qapjzdm1k7": "64030",
-        "Fkx0qbrnczvoaq": "",
-        "Rent Value": "",
+    "answers": {
+        "name": "Full Name",
+        "address": "This is the address",
+        "city": "Miami",
+        "state": "Florida",
+        "zipcode": "33172",
+        "Pets": "",
+        "propertyname": "Property name",
+        "address3": "Property address",
+        "ci3": "Kansas City",
+        "state4": "Missouri",
+        "state5": "64030",
+        "noticeperiod": "",
+        "Rent": "",
 
     },
 
